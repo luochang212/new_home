@@ -295,6 +295,7 @@ Building your home from scratch.
 
 - 护照
 - 驾驶证
+- 银行卡
 - 其他身份材料
 
 ## 十六、XOX
